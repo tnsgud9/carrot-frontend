@@ -1,4 +1,3 @@
-import Calculator from "./components/Calculator";
 import { Container, Grid } from "@mui/material";
 
 const Test = (): JSX.Element => {
