@@ -1,6 +1,6 @@
 import Box from "@mui/system/Box";
 import ChatIcon from "@mui/icons-material/ChatBubbleOutlineOutlined";
-import Favorite
+import FavoriteIcon from "@mui/icons-material/FavoriteBorderOutlined";
 
 type TradeEventType = {
   chat?: number;
